@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "🌸 Starting Nikhila's Portfolio Development Server..."
+echo "🌸 Starting Macha Yeswanth's Portfolio DevSecOps Server..."
 echo ""
 echo "🏆 Status: PRODUCTION-READY!"
 echo ""
