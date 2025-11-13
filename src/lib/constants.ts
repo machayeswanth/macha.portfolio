@@ -1,15 +1,15 @@
 // App constants
 
 export const SITE_CONFIG = {
-  name: "Nikhila Koneru",
-  description: "Master's in Computer Science student at Northeastern University | Full-stack Developer | Cloud Computing Enthusiast",
-  url: "https://nikhilakoneru.com",
+  name: "Macha Yeswanth",
+  description: "Bachelor's in Computer Science student at MITS College | DevOpsEngineer | Cloud Computing Enthusiast | Ai Enthusiast",
+  url: "https://machayeswanth.com",
   ogImage: "/images/nikhila/og-image.png",
   links: {
-    email: "nikhila.koneru1@gmail.com",
-    github: "https://github.com/Nikhilakoneru",
-    linkedin: "https://linkedin.com/in/nikhila-koneru",
-    phone: "+1 2073320512"
+    email: "machayeswanth013@gmail.com",
+    github: "https://github.com/machayeswanth",
+    linkedin: "https://linkedin.com/in/macha-yeswanth/",
+    phone: "+91 9000740420"
   }
 };
 
