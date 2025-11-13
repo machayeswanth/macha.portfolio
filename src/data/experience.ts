@@ -15,12 +15,12 @@ export interface Experience {
 
 export const experienceData: Experience[] = [
   {
-    id: "tech-mahindra",
-    company: "Tech Mahindra Limited",
-    role: "Cloud Computing Intern",
+    id: "Worksbot",
+    company: "Worksbot",
+    role: "Data Scientist",
     duration: "Feb 2024 - Jul 2024",
-    location: "Hyderabad, India",
-    description: "Worked on optimizing cloud infrastructure and implementing automation strategies across multi-cloud environments.",
+    location: "Chennai, India",
+    description: "Worked on optimizing Data and implementing automation strategies across multi-cloud environments.",
     achievements: [
       "Accomplished 30% performance boost in deployment pipelines, as measured by CI/CD job execution time, by optimizing cloud infrastructure across Azure and AWS",
       "Improved resource allocation by 25%, as verified by monitoring dashboards, by implementing infrastructure-as-code strategies and cost-optimization techniques",
